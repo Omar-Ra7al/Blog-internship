@@ -31,3 +31,6 @@ The project is optimized for performance, including the use of appropriately siz
 ## Contact
 
 For any questions or inquiries, please contact [Omar Rahal](mailto:syntaxor7@gmail.com).
+
+## Demo
+You can view the live demo of this project [here](https://omar-ra7al.github.io/Blog-internship/).
